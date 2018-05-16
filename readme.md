@@ -1,8 +1,8 @@
 # Speciale Input - Output
-Team #
-1. <Teamlid1>
-2. <Teamlid2>
-3. <Teamlid3>
+Team 18
+1. Colin van Dongen
+2. Jacco Jongenotter
+3. Max Dekker
 
 ## Ontwerp
 Beschrijf hier kort jullie project
