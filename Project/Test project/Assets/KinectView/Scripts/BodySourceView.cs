@@ -13,9 +13,7 @@ public class BodySourceView : MonoBehaviour
     private Dictionary<ulong, GameObject> mBodies = new Dictionary<ulong, GameObject>();
     private List<Kinect.JointType> _joints = new List<Kinect.JointType>
     {
-        Kinect.JointType.HandLeft,
-        Kinect.JointType.HandRight,
-        Kinect.JointType.Head
+        Kinect.JointType.HandRight
     };
     
     
