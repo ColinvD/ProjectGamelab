@@ -10,11 +10,11 @@ Een soort duckhunt waarbij je met bewegingen kan richten en schieten op vogels d
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
 
-* [Onderzoek](https://docs.google.com/document/d/1hZRJcuzcIoQl1e__cVOskV5ajw_9Xp_JbG55W3VJ-oY/edit?usp=sharing)
+* [Onderzoek](https://docs.google.com/document/d/1aMIXT_wIJiNCbMUKWU6RpJsRzlrWJc-CrT1Z70EwxVc/edit?usp=sharing)
 * [Ontwerp](https://docs.google.com/document/d/1lUo8bG0pkvoim5D7gomHcgN3iZ018mdqV2SOGGZWupA/edit?usp=sharing)
 * [Testrapportage]()
 * [GoNoGoPresentatie](https://docs.google.com/presentation/d/19S6mCkEaj9zU1YWRZnzYtgcVyRAXRhEoLomhIAFOd-A/edit?usp=sharing)
-* [TussenPresentatie]()
+* [TussenPresentatie](https://docs.google.com/presentation/d/1yTgiXTh-MaxQxyX0b016aprZoqsTlr_ihMz0Y-LtSS0/edit?usp=sharing)
 * [EindPresentatie]()
 * [Map met alle Documenten](https://drive.google.com/drive/folders/11_4Cx4mR-_Dt6u-RP4CNM7m2cB9X_U-4)
 * [Logboek](https://calendar.google.com/calendar?cid=dTZuZHBnZG0xY211bzI3NGdmNGdwdm85aGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
