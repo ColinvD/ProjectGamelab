@@ -318,6 +318,9 @@
     <Compile Include="Assets\KinectView\Scripts\MultiSourceManager.cs" />
     <Compile Include="Assets\KinectView\Scripts\Score.cs" />
     <Compile Include="Assets\KinectView\Scripts\Spawn.cs" />
+    <Compile Include="Assets\Scripts\InstantiateCollider.cs" />
+    <Compile Include="Assets\Scripts\JsonReader.cs" />
+    <Compile Include="Assets\Scripts\passersbyCamera.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
