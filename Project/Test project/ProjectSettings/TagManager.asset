@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Bubble
   - Hand
+  - Face
   layers:
   - Default
   - TransparentFX

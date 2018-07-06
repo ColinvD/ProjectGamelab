@@ -20,6 +20,7 @@ public class InstantiateCollider : MonoBehaviour {
     {
         face = new GameObject();
         face.name = "face";
+        face.tag = "Face";
         face.AddComponent<SpriteRenderer>();
         face.GetComponent<SpriteRenderer>().sprite = sprite;
         face.AddComponent<BoxCollider2D>();

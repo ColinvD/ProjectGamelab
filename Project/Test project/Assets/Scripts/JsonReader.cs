@@ -8,9 +8,9 @@ public class JsonReader : MonoBehaviour {
 
     [SerializeField]
     private float waitSeconds = 0f;
-    [SerializeField]
+    /*[SerializeField]
     private Text text;
-    private int count;
+    private int count;*/
 
     public class values
     {
@@ -41,8 +41,8 @@ public class JsonReader : MonoBehaviour {
             yield return null;
         }
 
-        count++;
-        text.text = "" + count;
+        //count++;
+        //text.text = "" + count;
         FaceValues = JsonUtility.FromJson<values>(www.text);
         FindObjectOfType<InstantiateCollider>().UpdateTransform(FaceValues.x, FaceValues.y, FaceValues.width, FaceValues.height);
         Debug.Log("x: " + FaceValues.x + ", y: " + FaceValues.y + ", width: " + FaceValues.width + ", height: " + FaceValues.height);
