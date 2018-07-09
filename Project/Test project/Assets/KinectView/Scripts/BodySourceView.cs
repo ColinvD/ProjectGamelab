@@ -10,6 +10,9 @@ public class BodySourceView : MonoBehaviour
     public BodySourceManager mBodySourceManager;
     public GameObject mJointObject;
 
+    public GameObject playerOne;
+    public GameObject playerTwo;
+
     private Dictionary<ulong, GameObject> mBodies = new Dictionary<ulong, GameObject>();
     private List<Kinect.JointType> _joints = new List<Kinect.JointType>
     {
