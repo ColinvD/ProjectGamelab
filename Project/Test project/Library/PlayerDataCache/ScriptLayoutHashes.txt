@@ -109,8 +109,9 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 3f32f08a64daf40b09ed864d96fe3840 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Timer
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
-2b39aa5577ed3c454a7a0c521b1fc356 Assembly-CSharp.dll:.BodySourceView
+2a836a0c1e93ada3dbe6f77fd2bb935d Assembly-CSharp.dll:.BodySourceView
 bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
@@ -137,7 +138,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 64eb32cc721b1cc68a91ed57461e188c UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ColorSourceManager
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.BirdMove
+36390715102822493f37808d6eaf7a6b Assembly-CSharp.dll:.BirdMove
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:Helper.EventPump
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Score
@@ -148,10 +149,10 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 6cf1f3293c43df9d20eae5d753d50ac1 Assembly-CSharp.dll:.DepthSourceView
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.HandStart
+f4991dd583331f55dedb1670d1d7bbf9 Assembly-CSharp.dll:.HandStart
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.DepthSourceManager
 3819202efd5ce598a15b4306cb00495f Assembly-CSharp.dll:.Spawn
 35713e15bc258c4baca73d02c15ccadf Assembly-CSharp.dll:.ColorSourceView
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ResetGame
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.DisableOnStart
 760d61dcd067c1148397c7cadd4f2e33 Assembly-CSharp.dll:.InfraredSourceView
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ResetGame

@@ -26,9 +26,10 @@ public class HandStart : MonoBehaviour
     {
         if (collision.collider.tag == "Start")
         {
-            _currentlives += 5;
-            Hold.value = _currentlives;
-            print(_currentlives);
+            //_currentlives += 5;
+            //Hold.value = _currentlives;
+            //print(_currentlives);
+            Application.LoadLevel(1);
         }
     }
 

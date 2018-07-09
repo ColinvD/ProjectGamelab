@@ -14,9 +14,13 @@ public class ReadyUp : MonoBehaviour {
         if (collision.collider.tag == "ReadyUp")
         {
             print("asdasd");
-            Time.timeScale = 1.0f;
-            
-            
+            Time.timeScale = 1.0f;                      
         }
+    }
+
+    void Update()
+    {
+        if(Input.GetKeyDown(KeyCode.Space))
+        Application.LoadLevel(1);
     }
 }
