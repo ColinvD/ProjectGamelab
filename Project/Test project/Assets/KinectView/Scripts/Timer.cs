@@ -6,8 +6,7 @@ using UnityEngine.UI;
 public class Timer : MonoBehaviour
 {
 
-
-    private float time = 30f;
+    private float time = 60f;
     Text timer;
     // Use this for initialization
     void Awake()
@@ -21,9 +20,14 @@ public class Timer : MonoBehaviour
         timer.text = "Time left: " + Mathf.RoundToInt(time % 60);
         time -= Time.deltaTime;
 
+        if(time <= 5)
+        {
+            timer.color = Color.red;
+        }
+
         if (time <= 0)
         {
-
+            Application.LoadLevel(0);
         }
     }
 }
